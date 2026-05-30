@@ -46,8 +46,8 @@ I care about learning the fundamentals properly, writing code that solves real p
 
 ## GitHub stats
 
-![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanesh-a-dev&show_icons=true&theme=radical)
+![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanesh-a-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanesh-a-dev&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanesh-a-dev&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
