@@ -1,6 +1,18 @@
-# Hi, I'm Dhanesh
+<div align="center">
+  
+# 👋 Hi, I'm Dhanesh
 
-**Computer Science Enthusiast  ·  India  ·  Building in public**
+### *A curious mind, learning to build things with code*
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dhaneshanair)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanesh.a.connect@gmail.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Just+started+my+coding+journey;Learning+every+single+day;Excited+for+what's+ahead">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=500&lines=Just+started+my+coding+journey;Learning+every+single+day;Building+my+first+projects;Excited+for+what's+ahead">
+</picture>
+
+</div>
 
 ---
 
@@ -36,18 +48,31 @@ I care about learning the fundamentals properly, writing code that solves real p
 
 ---
 
-## Projects
+## 📊 GitHub Stats (Still Growing)
 
-| Repository | Description |
-|------------|-------------|
-| [freecodecamp-practice](https://github.com/dhanesh-a-dev/daily-coding-problems-python.git) | Daily Python practice problems from sources like FreeCodeCamp |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanesh-a-dev&show_icons=true&hide=prs,issues&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanesh-a-dev&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="170" />
+</div>
+
+<div align="center">
+  <i>These stats will fill out as I add more commits and projects. Watch this space 📈</i>
+</div>
+
 
 ---
 
-## GitHub stats
+## 📫 Let's Connect
 
-![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanesh-a-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+I'm always open to:
+- 🤝 Advice from developers 
+- 📖 Recommendations for learning resources that actually helped you
+- 💬 Casual conversations about tech (or just life)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanesh-a-dev&layout=compact&theme=tokyonight&hide_border=true)
+| Platform | Link |
+|----------|------|
+| **Twitter/X** | [twitter.com/dhaneshanair](https://twitter.com/dhaneshanair) |
+| **Email** | [dhanesh.a.connect@gmail.com](mailto:dhanesh.a.connect@gmail.com) |
+
 
 ---
