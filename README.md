@@ -48,17 +48,12 @@ I care about learning the fundamentals properly, writing code that solves real p
 
 ---
 
-## 📊 GitHub Stats (Still Growing)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanesh-a-dev&show_icons=true&hide=prs,issues&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanesh-a-dev&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="170" />
-</div>
-
-<div align="center">
-  <i>These stats will fill out as I add more commits and projects. Watch this space 📈</i>
-</div>
-
+## 📊 GitHub Statistics
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhanesh-a-dev&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=dhanesh-a-dev&theme=github-dark-blue&hide_border=false&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanesh-a-dev&theme=github-compact&hide_border=true&area=true" />
+</p>
 
 ---
 
