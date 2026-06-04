@@ -54,10 +54,6 @@ I care about learning the fundamentals properly, writing code that solves real p
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhanesh-a-dev&theme=github-dark-blue&hide_border=false&date_format=j%20M%5B%20Y%5D" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanesh-a-dev&theme=github-compact&hide_border=true&area=true" />
 </p>
 
