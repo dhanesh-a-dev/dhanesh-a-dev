@@ -4,9 +4,8 @@
 
 ### *A curious mind, learning to build things with code*
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dhaneshanair)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanesh.a.connect@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhanesh-a-nair)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.dhaneshanair.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Just+started+my+coding+journey;Learning+every+single+day;Excited+for+what's+ahead">
@@ -69,8 +68,6 @@ I'm always open to:
 
 | Platform | Link |
 |----------|------|
-| **Twitter/X** | [twitter.com/dhaneshanair](https://twitter.com/dhaneshanair) |
 | **Email** | [dhanesh.a.connect@gmail.com](mailto:dhanesh.a.connect@gmail.com) |
-| **Linkedin** | [Linkedin](www.linkedin.com/in/dhanesh-a-nair) |
-| **Website** | [dhaneshanair.com](www.dhaneshanair.com) |
+| **Website** | [dhaneshanair.com](https://www.dhaneshanair.com) |
 ---
