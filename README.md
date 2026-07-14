@@ -49,9 +49,6 @@ I care about learning the fundamentals properly, writing code that solves real p
 ---
 
 ## 📊 GitHub Statistics
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhanesh-a-dev&theme=github_dark" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanesh-a-dev&theme=github-compact&hide_border=true&area=true" />
