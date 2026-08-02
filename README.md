@@ -2,8 +2,6 @@
   
 # 👋 Hi, I'm Dhanesh
 
-### *A curious mind, learning to build things with code*
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanesh.a.connect@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.dhaneshanair.com)
 
@@ -13,11 +11,6 @@
 </picture>
 
 </div>
-
----
-
-I'm at the very beginning of a long journey in software engineering and computer science.
-I care about learning the fundamentals properly, writing code that solves real problems, and being consistent over time. Right now I'm focused on building a strong foundation — the rest will follow.
 
 ---
 
