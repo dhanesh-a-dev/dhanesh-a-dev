@@ -1,63 +1,146 @@
 <div align="center">
-  
-# 👋 Hi, I'm Dhanesh
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanesh.a.connect@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.dhaneshanair.com)
+# Dhanesh A Nair
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Just+started+my+coding+journey;Learning+every+single+day;Excited+for+what's+ahead">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=500&lines=Just+started+my+coding+journey;Learning+every+single+day;Building+my+first+projects;Excited+for+what's+ahead">
-</picture>
+### Custom Websites, Dashboards & Digital Systems — Built Around How You Work
+
+I design and build digital solutions for businesses, professionals, and individuals — each one shaped around a specific workflow, not a template.
+
+[![Website](https://img.shields.io/badge/Website-dhaneshanair.com-FF2020?style=for-the-badge&logoColor=white)](https://dhaneshanair.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanesh-a-nair)
+[![Email](https://img.shields.io/badge/Email-Start%20a%20Project-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanesh.a.connect@gmail.com)
 
 </div>
 
----
-
-## Currently learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<br>
 
 ---
 
-## Interests
+## What I Build
 
-- Web development & software engineering
-- Artificial intelligence & its real-world applications
-- How technology and business intersect
+Most software is built to work for everyone — which means it rarely fits anyone exactly.
 
----
+I build for one business or one person at a time: websites, dashboards, and internal tools designed around your actual goals, workflow, and constraints — not a generic template with your logo on it.
 
-## Next Up
-
-![JavaScript](https://img.shields.io/badge/JavaScript-888780?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-888780?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-888780?style=flat&logo=node.js&logoColor=white)
-![Full-stack](https://img.shields.io/badge/Full--stack%20dev-888780?style=flat)
+<br>
 
 ---
 
-## 📊 GitHub Statistics
+## Featured Solutions
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanesh-a-dev&theme=github-compact&hide_border=true&area=true" />
-</p>
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Freelance Dashboard**
+
+A single dashboard to manage clients, projects, payments, and tasks — replacing spreadsheets and scattered tools with one clear system.
+
+</td>
+<td width="33%" valign="top">
+
+**Personalized Planning Systems**
+
+Structured planning and tracking systems built around a person's actual goals, timeline, and workflow — for students, professionals, freelancers, and exam candidates.
+
+</td>
+<td width="33%" valign="top">
+
+**Student Productivity Systems**
+
+Custom-built planners and trackers designed around how a specific individual studies and works — not a one-size-fits-all template.
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-## 📫 Let's Connect
+## How I Can Help
 
-I'm always open to:
-- 🤝 Advice from developers 
-- 📖 Recommendations for learning resources that actually helped you
-- 💬 Casual conversations about tech (or just life)
+| Service | What It Solves |
+|---|---|
+| **Business Websites** | Clean, fast, conversion-focused sites that represent your business properly |
+| **Portfolio Websites** | Professional portfolios built to make the right first impression |
+| **Dashboards** | A single, custom-built view into your clients, data, or operations |
+| **Internal Workflow Systems** | Replace manual processes and spreadsheets with a system built for your team |
+| **Personalized Planning Systems** | Structured planning and tracking tools built around your goals and timeline |
+| **Custom Digital Tools** | Purpose-built tools that solve one specific problem in your workflow |
 
-| Platform | Link |
-|----------|------|
-| **Email** | [dhanesh.a.connect@gmail.com](mailto:dhanesh.a.connect@gmail.com) |
-| **Website** | [dhaneshanair.com](https://www.dhaneshanair.com) |
+<br>
+
 ---
+
+## Why Custom Solutions
+
+Off-the-shelf software solves a generic version of your problem. A custom solution solves *your* problem — the one with your workflow, your constraints, and your goals baked in from the start.
+
+That's the only kind of work I take on. If a template would genuinely serve you better, I'll tell you that instead of building something you don't need.
+
+<br>
+
+---
+
+## Currently Building
+
+- **Personalized Planning Systems** — Astro-based planning tool, first version live with early users
+- **Freelance Operations Dashboard** — React + Vercel, tracking clients, projects, and payments in one place
+- **Portfolio & Delivery Pipeline** — Astro on Vercel, continuous deployment straight from GitHub
+
+<br>
+
+---
+
+## Built With
+
+The technology behind the systems I deliver — chosen for reliability and speed of delivery, not resume points.
+
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+<br>
+
+---
+
+## Contact
+
+<div align="center">
+
+| | |
+|---|---|
+| 🌐 Website | [dhaneshanair.com](https://dhaneshanair.com) |
+| 💼 LinkedIn | [linkedin.com/in/dhanesh-a-nair](https://linkedin.com/in/dhanesh-a-nair) |
+| 📧 Email | [dhanesh.a.connect@gmail.com](mailto:dhanesh.a.connect@gmail.com) |
+| 💻 GitHub | [github.com/dhanesh-a-dev](https://github.com/dhanesh-a-dev) |
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## Let's Build Something Together
+
+If you have an idea, a workflow that isn't working, or a system that doesn't exist yet —
+that's exactly what I build.
+
+[![Start a Project](https://img.shields.io/badge/Start%20a%20Project-dhaneshanair.com-FF2020?style=for-the-badge&logoColor=white)](https://dhaneshanair.com)
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+<sub>© 2026 Dhanesh A Nair · dhaneshanair.com</sub>
+</div>
