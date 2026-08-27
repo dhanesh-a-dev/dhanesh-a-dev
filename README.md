@@ -1,4 +1,10 @@
 <div align="center">
+<img src="assets/banner1.png" width="100%" alt="Dhanesh A Nair — Websites, Dashboards and Custom Digital Tools" />
+</div>
+
+<br>
+
+<div align="center">
 
 # Dhanesh A Nair
 
@@ -7,7 +13,6 @@
 I design and build digital solutions for businesses, professionals, and individuals — each one shaped around a specific workflow, not a template.
 
 [![Website](https://img.shields.io/badge/Website-dhaneshanair.com-FF2020?style=for-the-badge&logoColor=white)](https://dhaneshanair.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanesh-a-nair)
 [![Email](https://img.shields.io/badge/Email-Start%20a%20Project-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanesh.a.connect@gmail.com)
 
 </div>
@@ -85,8 +90,8 @@ That's the only kind of work I take on. If a template would genuinely serve you 
 
 ## Currently Building
 
-- **Personalized Planning Systems** — Astro-based planning tool, first version live with early users
-- **Freelance Operations Dashboard** — React + Vercel, tracking clients, projects, and payments in one place
+- **Personalized Planning Systems** — refining the offering and preparing to onboard early clients
+- **Freelance Operations Dashboard** — in active development, built to track clients, projects, and payments in one place
 - **Portfolio & Delivery Pipeline** — Astro on Vercel, continuous deployment straight from GitHub
 
 <br>
@@ -98,9 +103,8 @@ That's the only kind of work I take on. If a template would genuinely serve you 
 The technology behind the systems I deliver — chosen for reliability and speed of delivery, not resume points.
 
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -116,7 +120,6 @@ The technology behind the systems I deliver — chosen for reliability and speed
 | | |
 |---|---|
 | 🌐 Website | [dhaneshanair.com](https://dhaneshanair.com) |
-| 💼 LinkedIn | [linkedin.com/in/dhanesh-a-nair](https://linkedin.com/in/dhanesh-a-nair) |
 | 📧 Email | [dhanesh.a.connect@gmail.com](mailto:dhanesh.a.connect@gmail.com) |
 | 💻 GitHub | [github.com/dhanesh-a-dev](https://github.com/dhanesh-a-dev) |
 
