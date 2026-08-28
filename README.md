@@ -1,6 +1,5 @@
 <div align="center">
-<img src="assets/banner1.png" width="100%" alt="Dhanesh A Nair — Websites, Dashboards and Custom Digital Tools" />
-</div>
+
 
 <br>
 
